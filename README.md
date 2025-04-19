@@ -1,7 +1,4 @@
 # Traffic-speed-Detection
-Awesome! Congrats on finishing your Traffic Speed Detection project 🚗💨. Here's a professional yet beginner-friendly **README.md** template you can use for your GitHub repository:
-
----
 
 ```markdown
 # 🚦 Traffic Speed Detection using Computer Vision
