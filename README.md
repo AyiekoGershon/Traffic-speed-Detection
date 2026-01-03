@@ -1,6 +1,5 @@
 # Traffic-speed-Detection
 
-```markdown
 # 🚦 Traffic Speed Detection using Computer Vision
 
 This project uses computer vision techniques to detect and estimate the speed of vehicles in a video stream. It's built using Python, OpenCV, and NumPy. The goal is to help automate traffic analysis, potentially contributing to smart traffic systems and road safety monitoring.
@@ -39,9 +38,9 @@ Make sure to place your video file in the correct folder and update the path ins
 
 Speed is calculated using:
 
-```
+
 speed = distance / time
-```
+
 
 Converted to real-world units using a manually calibrated pixel-to-meter ratio.
 
@@ -68,4 +67,4 @@ Converted to real-world units using a manually calibrated pixel-to-meter ratio.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
