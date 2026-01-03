@@ -5,7 +5,7 @@
 This project uses computer vision techniques to detect and estimate the speed of vehicles in a video stream. It's built using Python, OpenCV, and NumPy. The goal is to help automate traffic analysis, potentially contributing to smart traffic systems and road safety monitoring.
 
 ## 📸 Demo
-![Demo GIF](vehicles-result(3).mp4)
+vehicles-result(3).mp4
 
 
 ## 🔧 Features
